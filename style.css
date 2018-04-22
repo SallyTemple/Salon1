@@ -1,9 +1,10 @@
 body {
-     
+ background-image: url(images/background-body.JPG);
       font-family: 'Quicksand', sans-serif;
   }
 
   #hair-body{
+      margin-top: 50px;
         margin-left: 50px;
   }
 
@@ -11,10 +12,13 @@ body {
         margin-left: 350px;
   }
   #conrowing {
+      margin-top: 50px;
       margin-left: 50px; 
   }
 
   #forming{
+    
+        padding-top: 100px;
       margin-left: 100px;
       margin-right: 100px;
       margin-top: 100px;
@@ -22,15 +26,18 @@ body {
   }
 
 #wiggy{
+      margin-top: 50px;
       margin-left: 50px; 
 }
 
 #ext-forsale{
+      margin-top: 50px;
       margin-left: 50px; 
 }
-}
+
 
 #shamp-cond {
+      margin-top: 50px;
       margin-left: 50px;
 }
 
@@ -38,42 +45,53 @@ body {
       margin-left: 550px;   
   }
 #accessories{
+      margin-top: 50px;
       margin-left: 50px; 
 }
   #clothing {
+      margin-top: 50px;
       margin-left: 50px; 
   }
   #facial {
+      margin-top: 50px;
       margin-left: 50px; 
 }
   
   #flat-ironing {
+      margin-top: 50px;
   margin-left: 50px;
   }
 
   #shampooing {
+      margin-top: 50px;
       margin-left: 50px;
   }
 
   #highlighting {
+      margin-top: 50px;
       margin-left: 50px;
   }
 
 #styles {
+      margin-top: 50px;
       margin-left: 50px;
 }
   #perming {
+      margin-top: 50px;
       margin-left: 50px; 
   }
   
 #opening {
-      margin-left: 750px;       
+      margin-top: 50px;
+      margin-left: 650px;       
 }
   #Braiding {
+      margin-top: 50px;
       margin-left: 50px;
 }
 
 #Crocheting {
+      margin-top: 50px;
       margin-left: 50px;
 }
 
@@ -102,6 +120,7 @@ body {
 .navbar {
       padding: 10px;
 }
+
 
 footer {
       padding: 30px 0;
