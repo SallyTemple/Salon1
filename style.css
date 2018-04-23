@@ -82,8 +82,15 @@ body {
   }
   
 #opening {
+      text-align: center;
+     
+      
       margin-top: 50px;
-      margin-left: 650px;       
+      margin-left: 650px;    
+      margin-right: 550px; 
+      margin-bottom: 50px;
+      padding-right: 65px;
+     
 }
   #Braiding {
       margin-top: 50px;
