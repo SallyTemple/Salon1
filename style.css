@@ -8,6 +8,8 @@ body {
         margin-left: 50px;
   }
 
+ 
+
   .card {
         margin-left: 350px;
   }
@@ -128,6 +130,7 @@ body {
       color: aliceblue;
       text-align: center;
       padding:50px;
+      margin: 5px;
 }
 
 .center {
