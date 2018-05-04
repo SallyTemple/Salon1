@@ -1,6 +1,6 @@
 body {
  background-image: url(images/background-body.JPG);
-      font-family: 'Quicksand', sans-serif;
+ font-family: 'Cinzel Decorative', cursive;
   }
 
   #hair-body{
@@ -81,10 +81,18 @@ body {
       margin-left: 50px;
   }
 
+  #salon-picture{
+      margin-top: 0px;
+      margin-left: 250px;    
+      margin-right: 150px; 
+      margin-bottom: 100px;
+  }
+
 #styles {
       margin-top: 50px;
       margin-left: 50px;
 }
+
   #perming {
       margin-top: 50px;
       margin-left: 50px; 
