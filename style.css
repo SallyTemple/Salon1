@@ -8,10 +8,16 @@ body {
         margin-left: 50px;
   }
 
- 
-
+ #address{
+       text-align: right;
+       margin-left: 50px;
+ }
+.lead{
+      text-align: left;
+}
   .card {
         margin-left: 350px;
+        padding-left: 25px;
   }
   #conrowing {
       margin-top: 50px;
@@ -100,17 +106,15 @@ body {
       margin-left: 50px; 
   }
   
-#opening {
-      text-align: center;
-     
+  #opening {
+      text-align: right;
       
-      margin-top: 50px;
-      margin-left: 550px;    
-      margin-right: 150px; 
-      margin-bottom: 50px;
-      padding-right: 65px;
-     
 }
+
+#schedule-form {
+      margin-left: 65px;
+}
+
   #Braiding {
       margin-top: 50px;
       margin-left: 50px;
@@ -132,9 +136,14 @@ body {
       padding:50px;
       margin: 5px;
       background-image: url(..images/Twisthairstyle.jpg);
+   
       
 }
-
+#stylist-info{
+      margin-left: 300px;
+      margin-bottom:50px;
+    
+}
 .center {
       display: block;
       margin-left: auto;
@@ -143,7 +152,7 @@ body {
   }
 
 .row {
-      padding-top: 80px;
+      padding-top: 1px;
 }
 
 .navbar {
